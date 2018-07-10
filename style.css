@@ -1,0 +1,22 @@
+.intro {
+  color: blacks;
+  font-size: large;
+  background-color: peachpuff;
+}
+.left{
+  float: left;
+  margin-right: 1em;
+}
+.right{
+  float: right;
+  margin-right: 1em;
+}
+.name{
+  font-family: 'Bungee Shade', cursive;
+  font-size: 72px;
+}
+#bodytext{
+  font-size: 60px
+  column: 12em;
+}
+font-family: 'Bungee Shade', cursive;
